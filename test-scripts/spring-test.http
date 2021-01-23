@@ -1,0 +1,12 @@
+### 测试查询数据
+GET http://localhost:9195/springcloud/order/findById?id=999
+
+### 测试保存数据
+POST http://localhost:9195/springcloud/order/save
+Content-Type: application/json
+
+{
+  "id": "999",
+  "name": "valjean"
+}
+
