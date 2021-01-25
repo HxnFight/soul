@@ -31,7 +31,7 @@ logging:
 
 soul:
   tars:
-    adminUrl: http://localhost:9095
+    adminUrl: http://172.16.0.35:9095
     contextPath: /tars
     appName: tars
-    ipAndPort: 192.168.41.103:21715
+    ipAndPort: 192.168.1.110:9002

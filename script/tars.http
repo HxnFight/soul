@@ -1,0 +1,8 @@
+### GET request with a header
+POST http://localhost:9195/tars/hello
+Content-Type: application/json
+
+{
+    "no": 1,
+    "name": "valjean"
+}
