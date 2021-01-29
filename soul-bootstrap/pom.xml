@@ -163,43 +163,43 @@
         <!-- soul  alibaba dubbo plugin end-->
 
         <!-- soul ratelimiter plugin start-->
-        <dependency>
-            <groupId>org.dromara</groupId>
-            <artifactId>soul-spring-boot-starter-plugin-ratelimiter</artifactId>
-            <version>${project.version}</version>
-        </dependency>
+        <!--        <dependency>-->
+        <!--            <groupId>org.dromara</groupId>-->
+        <!--            <artifactId>soul-spring-boot-starter-plugin-ratelimiter</artifactId>-->
+        <!--            <version>${project.version}</version>-->
+        <!--        </dependency>-->
         <!-- soul ratelimiter plugin end-->
 
         <!-- soul hystrix plugin start-->
-        <dependency>
-            <groupId>org.dromara</groupId>
-            <artifactId>soul-spring-boot-starter-plugin-hystrix</artifactId>
-            <version>${project.version}</version>
-        </dependency>
+        <!--        <dependency>-->
+        <!--            <groupId>org.dromara</groupId>-->
+        <!--            <artifactId>soul-spring-boot-starter-plugin-hystrix</artifactId>-->
+        <!--            <version>${project.version}</version>-->
+        <!--        </dependency>-->
         <!-- soul hystrix plugin end-->
 
         <!-- soul waf plugin starter-->
-        <dependency>
-            <groupId>org.dromara</groupId>
-            <artifactId>soul-spring-boot-starter-plugin-waf</artifactId>
-            <version>${project.version}</version>
-        </dependency>
+        <!--        <dependency>-->
+        <!--            <groupId>org.dromara</groupId>-->
+        <!--            <artifactId>soul-spring-boot-starter-plugin-waf</artifactId>-->
+        <!--            <version>${project.version}</version>-->
+        <!--        </dependency>-->
         <!-- soul waf plugin end-->
 
         <!-- soul monitor plugin starter-->
-        <dependency>
-            <groupId>org.dromara</groupId>
-            <artifactId>soul-spring-boot-starter-plugin-monitor</artifactId>
-            <version>${project.version}</version>
-        </dependency>
+        <!--        <dependency>-->
+        <!--            <groupId>org.dromara</groupId>-->
+        <!--            <artifactId>soul-spring-boot-starter-plugin-monitor</artifactId>-->
+        <!--            <version>${project.version}</version>-->
+        <!--        </dependency>-->
         <!-- soul monitor plugin end-->
 
         <!--soul data sync start use zookeeper-->
-        <dependency>
-            <groupId>org.dromara</groupId>
-            <artifactId>soul-spring-boot-starter-sync-data-zookeeper</artifactId>
-            <version>${project.version}</version>
-        </dependency>
+        <!--        <dependency>-->
+        <!--            <groupId>org.dromara</groupId>-->
+        <!--            <artifactId>soul-spring-boot-starter-sync-data-zookeeper</artifactId>-->
+        <!--            <version>${project.version}</version>-->
+        <!--        </dependency>-->
 
         <!--soul data sync start use websocket-->
         <dependency>
@@ -209,18 +209,18 @@
         </dependency>
 
         <!--soul data sync start use http-->
-        <dependency>
-            <groupId>org.dromara</groupId>
-            <artifactId>soul-spring-boot-starter-sync-data-http</artifactId>
-            <version>${project.version}</version>
-        </dependency>
+        <!--        <dependency>-->
+        <!--            <groupId>org.dromara</groupId>-->
+        <!--            <artifactId>soul-spring-boot-starter-sync-data-http</artifactId>-->
+        <!--            <version>${project.version}</version>-->
+        <!--        </dependency>-->
 
         <!-- soul sign plugin start-->
-        <dependency>
-            <groupId>org.dromara</groupId>
-            <artifactId>soul-spring-boot-starter-plugin-sign</artifactId>
-            <version>${project.version}</version>
-        </dependency>
+        <!--        <dependency>-->
+        <!--            <groupId>org.dromara</groupId>-->
+        <!--            <artifactId>soul-spring-boot-starter-plugin-sign</artifactId>-->
+        <!--            <version>${project.version}</version>-->
+        <!--        </dependency>-->
         <!-- soul sign plugin end-->
 
         <!-- soul httpclient plugin start-->
@@ -235,21 +235,21 @@
 <!--            <groupId>org.dromara</groupId>-->
 <!--            <artifactId>soul-spring-boot-starter-plugin-sofa</artifactId>-->
 <!--            <version>${project.version}</version>-->
-<!--        </dependency>-->
+        <!--        </dependency>-->
 
-<!--        <dependency>-->
-<!--            <groupId>com.alipay.sofa</groupId>-->
-<!--            <artifactId>sofa-rpc-all</artifactId>-->
-<!--        </dependency>-->
+        <!--        <dependency>-->
+        <!--            <groupId>com.alipay.sofa</groupId>-->
+        <!--            <artifactId>sofa-rpc-all</artifactId>-->
+        <!--        </dependency>-->
         <!-- soul sofa plugin end-->
 
 
         <!-- soul tars plugin start-->
-        <dependency>
-            <groupId>org.dromara</groupId>
-            <artifactId>soul-spring-boot-starter-plugin-tars</artifactId>
-            <version>${project.version}</version>
-        </dependency>
+        <!--        <dependency>-->
+        <!--            <groupId>org.dromara</groupId>-->
+        <!--            <artifactId>soul-spring-boot-starter-plugin-tars</artifactId>-->
+        <!--            <version>${project.version}</version>-->
+        <!--        </dependency>-->
         <!-- soul tars plugin end-->
         <!-- soul sofa plugin start-->
         <!--        <dependency>-->
@@ -264,11 +264,11 @@
         <!--        </dependency>-->
         <!-- soul sofa plugin end-->
 
-        <dependency>
-            <groupId>org.dromara</groupId>
-            <artifactId>soul-spring-boot-starter-plugin-resilience4j</artifactId>
-            <version>${project.version}</version>
-        </dependency>
+        <!--        <dependency>-->
+        <!--            <groupId>org.dromara</groupId>-->
+        <!--            <artifactId>soul-spring-boot-starter-plugin-resilience4j</artifactId>-->
+        <!--            <version>${project.version}</version>-->
+        <!--        </dependency>-->
 
 
         <!--        &lt;!&ndash; soul tars plugin start&ndash;&gt;-->
